@@ -5,7 +5,7 @@ require "includes/header.php";
 <div class="container">
     <header>
         <h1>Edit Blog</h1>
-        <a href="index.php">← Back</a>
+        <a class="btn" href="index.php">Back</a>
     </header>
 
     <div class="form-box">
