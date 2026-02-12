@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "*****";
+$password = "03051017f";
 $database = "mini_blog_website";
 
 try {
